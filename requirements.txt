@@ -15,6 +15,6 @@ urllib3==2.0.4
 protobuf-decoder==0.4.0
 pytz==2023.3
 aiohttp==3.8.5
-cfonts==0.0.8
+cfonts==1.5.2
 gunicorn==21.2.0
 Flask-Cors==4.0.0
